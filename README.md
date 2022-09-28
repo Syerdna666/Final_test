@@ -17,6 +17,13 @@
 
 С помощью метода ```Array.Resize``` изменяем размер массива.
 
+### Визуальные схемы алгоритмов:
+
+ **algorithm_diagram.drawio**
+
+ **algorithm_diagram.png**
+
+
 ## Code:
 
 Решенние на языке C# по пути 
